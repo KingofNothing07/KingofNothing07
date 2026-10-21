@@ -1,16 +1,19 @@
-## Hi there 👋
+# KingofNothing07
 
-<!--
-**KingofNothing07/KingofNothing07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI skills for high-fidelity inheritance, semantic testing, market scouting, and honest project design.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Semantic Shorthand](https://github.com/KingofNothing07/Semantic-Shorthand-and-FaCD-logic-engine)** — High-fidelity inheritance logs that survive across sessions and agents.  
+  Install: copy `01.01_Semantic_Shorthand-Skill_Package.md`
+
+- **[FaCD v01.02](https://github.com/KingofNothing07/Semantic-Shorthand-and-FaCD-logic-engine)** — Algebraic test of claims and plans (`Left = Right`).  
+  Install: copy `01_02_FaCD-Factored_Context_and_Discernment-Skill_Package-1.md`
+
+- **[Market Scout Mentor](https://github.com/KingofNothing07/Market-Scout-Agent)** — Gated fair-value scouting for stocks and crypto.  
+  Install: copy `Market-Scout-Mentor.md`
+
+- **[Project Mentor](https://github.com/KingofNothing07/Project-Mentor-Brainstorm-to-Build-Anything)** — Honest design mentor that turns a rough idea into an approved, agent-ready log.  
+  Install: copy `SKILL.md`
+
+Each skill installs independently. Paste the single file into any AI that accepts custom instructions or skills.
