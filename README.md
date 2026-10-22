@@ -4,11 +4,12 @@ AI skills for high-fidelity inheritance, semantic testing, market scouting, and 
 
 ## Skills
 
-- **[Semantic Shorthand](https://github.com/KingofNothing07/Semantic-Shorthand-and-FaCD-logic-engine)** — High-fidelity inheritance logs that survive across sessions and agents.  
-  Full package, fully capable lite version, language-only reference, and logging-practice document available.  
-  Install: copy any of the Semantic Shorthand files from the repo.
+- **[Semantic Shorthand](https://github.com/KingofNothing07/Semantic-Shorthand)** — High-fidelity inheritance logs that survive across sessions and agents.  
+  Full package, fully capable lite version, language-only reference, logging-practice document, and examples.  
+  Install: copy any Semantic Shorthand file from the repo.
 
-- **[FaCD v01.02](https://github.com/KingofNothing07/Semantic-Shorthand-and-FaCD-logic-engine)** — Algebraic test of claims and plans (`Left = Right`).  
+- **[FaCD](https://github.com/KingofNothing07/FaCD-logic-engine)** — Algebraic test of claims and plans (`Left = Right`).  
+  Includes skill package, language Core reference, and solutions library.  
   Install: copy `01_02_FaCD-Factored_Context_and_Discernment-Skill_Package-1.md`
 
 - **[Market Scout Mentor](https://github.com/KingofNothing07/Market-Scout-Agent)** — Gated fair-value scouting for stocks and crypto.  
